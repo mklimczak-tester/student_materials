@@ -1,0 +1,8 @@
+SCALAR_VARIABLE_FROM_FILE: abcd
+LIST_VARIABLE_FROM_FILE:
+  - a
+  - b
+  - c
+DICTONARY_VARIABLE_FROM_FILE:
+  given_name: Marta
+  family_name: Klimczak
