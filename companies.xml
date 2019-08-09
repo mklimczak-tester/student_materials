@@ -1,0 +1,59 @@
+<companies>
+	<company name="first company">
+		<employees>
+			<employee firstname="Leo" surname="Tolstoy" job="developer">
+				<salary>
+					2000
+				</salary>
+			</employee>
+			<employee firstname="Fyodor" surname="Dostoyevski" job="manager">
+				<salary>
+					3000
+				</salary>
+			</employee>
+			<employee firstname="William" surname="Yeats" job="qa">
+				<salary>
+					4000
+				</salary>
+			</employee>
+		</employees>
+	</company>
+	<company name="second company">
+		<employees>
+			<employee firstname="William" surname="Shakespeare" job="developer">
+				<salary>
+					2500
+				</salary>
+			</employee>
+			<employee firstname="Charles" surname="Dickens" job="manager">
+				<salary>
+					2500
+				</salary>
+			</employee>
+			<employee firstname="George" surname="Orwell" job="qa">
+				<salary>
+					3500
+				</salary>
+			</employee>
+		</employees>
+	</company>
+	<company name="third company">
+		<employees>
+			<employee firstname="William" surname="Faulkner" job="developer">
+				<salary>
+					3000
+				</salary>
+			</employee>
+			<employee firstname="Jane" surname="Austen" job="manager">
+				<salary>
+					3000
+				</salary>
+			</employee>
+			<employee firstname="Carl" surname="Marx" job="qa">
+				<salary>
+					3000
+				</salary>
+			</employee>
+		</employees>
+	</company>
+</companies>
