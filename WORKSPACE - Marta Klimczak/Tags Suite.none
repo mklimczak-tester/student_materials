@@ -1,0 +1,7 @@
+*** Settings ***
+Force Tags        Force_Tags
+Default Tags      Default Tags
+
+*** Test Cases ***
+TestWithNoTags
+    No Operation
